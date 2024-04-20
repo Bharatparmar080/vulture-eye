@@ -1,0 +1,773 @@
+@media only screen and (max-width: 1850px) {
+	.legal-assistance .image-wrapper {
+	    margin-left: -3vw;
+	}
+	.service-image-section figcaption {
+		padding: 40px;
+	}
+}
+@media only screen and (max-width: 1399px) {
+	section {
+	    padding-top: 90px;
+	    padding-bottom: 90px;
+	}
+	.legal-assistance .image-wrapper {
+	    margin-left: -3vw;
+	}
+	.service-image-section figcaption {
+		padding: 40px 25px;
+	}
+	.service-image-section .service-box .service-button {
+	    width: 50px;
+	    height: 50px;
+	}
+	.our-sevices .service-box .services-inner {
+		padding-right: 70px;
+	}
+	.legal-assistance .legal-content {
+	    padding-left: 50px;
+	}
+	.our-work .work-item p {
+	    padding: 0;
+	}
+	.icon-with-text .icon-box {
+		padding: 50px;
+	}
+}
+@media only screen and (max-width: 1199px) {
+	h1, .h1 {
+	    font-size: 72px;
+	    line-height: 74px;
+	}
+	h2, .h2 {
+	    font-size: 46px;
+	    line-height: 50px;
+	}
+	h3, .h3 {
+	    font-size: 26px;
+	    line-height: 32px;
+	}
+	h4, .h4 {
+	    font-size: 24px;
+	    line-height: 34px;
+	}
+	h5 {
+	    font-size: 19px;
+	    line-height: 26px;
+	}
+	h6 {
+	    font-size: 18px;
+	    line-height: 26px;
+	}
+	.no-padding-bottom {
+		padding-bottom: 0;
+	}
+	.no-padding-top {
+		padding-top: 0;
+	}
+	.page-title {
+	    font-size: 62px;
+	    line-height: 74px;
+	}
+	.page-title-height {
+	    height: 350px;
+	}
+	.navbar .navbar-nav .nav-item {
+	    margin-right: 25px;
+	}
+	header .header-button {
+	    margin-left: 25px;
+	}
+	.about-company .content p {
+	    width: 90%;
+	}
+	.about-company .contact-form .form-bg-img {
+	    left: -130px;
+	    width: 170px;
+	}
+	.about-company .contact-form {
+	    margin-top: -60px;
+	}
+	.about-company .content {
+	    padding-top: 50px;
+	}
+	.our-sevices .sevices-discription p {
+	    width: 100%;
+	}
+	.our-sevices .service-box .services-inner {
+	    padding-right: 50px;
+	    padding-left: 50px;
+	}
+	.legal-assistance .image-wrapper {
+	    margin-left: 0;
+	    padding-left: 35px;
+	    margin-bottom: 50px;
+	}
+	.legal-assistance .cover-bg {
+	    padding-top: 80px;
+	    padding-bottom: 80px;
+	}
+	.our-work .work-item img {
+	    margin-bottom: 30px;
+	    max-height: 100px;
+	}
+	.client-logo .financial-success-box {
+	    font-size: 18px;
+	    line-height: 26px;
+	    margin-bottom: 80px;
+	}
+	.committed-business .committed-business-content {
+	    padding: 100px 15px 100px 50px;
+	}
+	.committed-business h2 {
+	    font-size: 62px;
+	    line-height: 74px;
+	    margin-left: -150px;
+	}
+	.committed-business .side-text {
+        font-size: 215px;
+	    line-height: 215px;
+	    right: -50px;
+	}
+	.icon-with-text .icon-box {
+	    padding: 50px 30px 40px;
+	}
+	.fancy-heading .service-number {
+	    font-size: 90px;
+	    line-height: 90px;
+	}
+	.fancy-heading h3 {
+	    font-size: 34px;
+	    line-height: 44px;
+	}
+	.contact-form-wrapper .form-column {
+	    padding: 40px 30px 0 30px;
+	}
+	.contact-form-wrapper form .btn-wrapper {
+	    margin-left: -30px;
+	    margin-right: -30px;
+	}
+	.get-in-touch .feature-box-content p {
+	    width: 100%;
+	}
+	.get-in-touch .feature-box-icon {
+	    margin-right: 25px;
+	}
+	.get-in-touch .feature-box-icon span {
+	    height: 55px;
+	    width: 55px;
+	}
+	.get-in-touch .feature-box-icon img {
+	    right: 0;
+	    width: 40px;
+	}
+	.contact-form-wrapper {
+	    padding-left: 25px;
+	}
+	.get-in-touch .bottom-row {
+	    margin-top: 70px;
+	}
+	footer .main-title {
+	    font-size: 52px;
+	    line-height: 60px;
+	    width: 80%;
+	}
+	footer {
+	    padding: 70px 0;
+	}
+	footer .footer-contact-box, .footer-menu, footer .menu-title, footer .copyright {
+	    font-size: 16px;
+	    line-height: 30px;
+	}
+	footer .footer-contact-box .email-box {
+	    margin-bottom: 20px;
+	}
+	footer .footer-logo img {
+		width: 165px;
+	}
+	footer .newsletter-form input {
+	    font-size: 15px;
+	}
+	footer .newsletter-form {
+	    max-width: 250px;
+	}
+}
+@media only screen and (max-width: 991px) {
+	section {
+	    padding-top: 75px;
+	    padding-bottom: 75px;
+	}
+	h1, .h1 {
+	    font-size: 64px;
+	    line-height: 70px;
+	}
+	h2, .h2 {
+		font-size: 42px;
+    	line-height: 48px;
+	    letter-spacing: -1px;
+	}
+	.page-title {
+	    font-size: 52px;
+	    line-height: 64px;
+	}
+	.page-title-height {
+	    height: 325px;
+	}
+	.page-title-wrapper {
+	    padding-bottom: 30px;
+	}
+	.navbar-brand .logo {
+		width: 230px;
+	}
+	.navbar-toggler:focus {
+		box-shadow: none;
+	}
+	.navbar-toggler {
+	    width: 22px;
+	    height: 14px;
+	    display: inline-block;
+	    position: relative;
+	    padding: 0;
+	    margin: 0;
+	    border: none;
+	    vertical-align: middle;
+	    border-radius: 0;
+	    -webkit-transition: .3s;
+	    transition: .3s;
+	    display: -webkit-box;
+	    display: -ms-flexbox;
+	    display: flex;
+	    -ms-flex-item-align: center;
+	    -ms-grid-row-align: center;
+	    align-self: center;
+	}
+	.navbar-toggler-line {
+	    background: var(--dark-gray);
+	    height: 2px;
+	    width: 22px;
+	    content: "";
+	    display: block;
+	    border-radius: 0;
+	    position: absolute;
+	    left: 0;
+	    right: 0;
+	    margin-left: auto;
+	    margin-right: auto;
+	    -webkit-transform: rotate(0);
+	    transform: rotate(0);
+	    -webkit-transition: .25s;
+	    transition: .25s;
+	}
+	.navbar-toggler-line:nth-child(1) {
+	    top: 0;
+	    width: 14px;
+	}
+	.navbar-toggler-line:nth-child(2), .navbar-toggler-line:nth-child(3) {
+	    top: 6px;
+	}
+	.navbar-toggler-line:nth-child(4) {
+	    top: 12px;
+	    width: 14px;
+	}
+	.navbar-toggler[aria-expanded="true"] .navbar-toggler-line:nth-child(1), 
+	.navbar-toggler[aria-expanded="true"] .navbar-toggler-line:nth-child(4) {
+	    top: 7px;
+	    width: 0%;
+	}
+	.navbar-toggler[aria-expanded="true"] .navbar-toggler-line:nth-child(2) {
+	    -webkit-transform: rotate(45deg);
+	    transform: rotate(45deg);
+	}
+	.navbar-toggler[aria-expanded="true"] .navbar-toggler-line:nth-child(3) {
+	    -webkit-transform: rotate(-45deg);
+	    transform: rotate(-45deg);
+	}
+	.navbar-collapse {
+	    position: absolute;
+	    top: 100%;
+	    left: 0;
+	    width: 100%;
+	    overflow: hidden;
+	    box-shadow: 0 20px 15px 0 rgba(23,23,23,.05);
+	    max-height: calc(100vh - 72px);
+	    background-color: var(--white);
+	    z-index: 2;
+	}
+	header .container-fluid {
+	    padding-left: 30px;
+	    padding-right: 30px;
+	}
+	.navbar .navbar-nav .nav-link {
+		padding: 10px 15px;
+	}
+	.navbar .navbar-nav .nav-item {
+	    margin-right: 0;
+	}
+	.navbar .navbar-nav {
+	    padding: 15px 15px 28px;
+	}
+	.menu-order {
+		order: 5;
+		margin-left: 30px !important;
+	}
+	header .header-button {
+	    margin-left: 0;
+	}
+	.hero-banner .title {
+	    margin-bottom: 50px;
+	}
+	.about-company {
+		overflow: hidden;
+	}
+	.about-company .contact-form {
+	    margin-top: 0;
+	}
+	.about-company .content {
+		padding-top: 75px;
+		margin-bottom: 50px;
+	}
+	.about-company .contact-form .form-bg-img {
+	    left: auto;
+	    top: -160px;
+	    right: -25px;
+	}
+	.about-company .content p {
+	    width: 100%;
+	}
+	.service-image-section .service-box .service-name {
+	    padding-right: 30px;
+	}
+	.our-sevices .service-box:nth-child(n+3) {
+		margin-top: 40px;
+	}
+	.our-sevices .service-box:nth-child(2) .services-inner {
+		border: 0;
+	}
+	.our-sevices .service-box .services-inner {
+	    padding-right: 30px;
+	    padding-left: 30px !important;
+	}
+	.our-sevices .title-row {
+	    margin-bottom: 50px;
+	}
+	.side-text {
+		display: none;
+	}
+	.legal-assistance h2 {
+	    font-size: 38px;
+	    line-height: 52px;
+	    width: 100%;
+	}
+	.our-work {
+		padding-bottom: 100px;
+	}
+	.our-work .work-item:nth-child(2) .step-separator,
+	.our-work .work-item:nth-child(4) .step-separator {
+		display: none;
+	}
+	.our-work .work-item:nth-child(n+3) {
+		margin-top: 50px;
+	}
+	.client-logo .financial-success-box {
+		margin-bottom: 70px;
+	}
+	.our-vision .vision-image-wrapper {
+		margin-bottom: 27%;
+	}
+	.committed-business .committed-business-content .inner-wrapper {
+	    max-width: 100%;
+	}
+	.committed-business h2 {
+	    font-size: 54px;
+	    line-height: 64px;
+	    letter-spacing: -1px;
+	    margin-left: 0;
+	    margin-bottom: 40px;
+	}
+	.committed-business .committed-business-content {
+	    padding: 50px;
+	}
+	.committed-business .committed-business-content p {
+	    margin-bottom: 30px;
+	}
+	.our-corporate-service .corporate-service-img {
+		margin-bottom: 40px;
+	}
+	.our-corporate-service h2 {
+	    font-size: 42px;
+	    line-height: 52px;
+	}
+	.counter-box:nth-child(n+3) {
+		margin-top: 40px;
+	}
+	.icon-with-text:nth-child(n+3) {
+	    margin-top: 30px;
+	}
+	.solutions-services .bottom-row {
+	    margin-top: 60px;
+	}
+	.service-our-work {
+		padding-bottom: 75px;
+	}
+	.separator, .service-content-image-row {
+		margin-bottom: 60px;
+	}
+	.service-content-row {
+	    margin-bottom: 50px;
+	}
+	.fancy-heading {
+	    margin-bottom: 40px;
+	    padding-right: 0;
+	}
+	.accordion-bottom-row {
+	    margin-top: 50px;
+	}
+	.contact-form-wrapper {
+	    padding-left: 15px;
+	    margin-top: 50px;
+	}
+	.get-in-touch h2 {
+	    font-size: 36px;
+	    line-height: 46px;
+	    margin-bottom: 40px;
+	}
+	.contact-form-wrapper .form-title {
+	    font-size: 34px;
+	    line-height: 42px;
+	}
+	.map {
+	    height: 500px;
+	}
+	footer .newsletter-form {
+	    max-width: 100%;
+	}
+	footer .footer-newsletter {
+		margin-bottom: 40px;
+	}
+	footer .main-title {
+	    font-size: 44px;
+	    line-height: 54px;
+	    letter-spacing: -1px;
+	}
+	footer .footer-logo {
+	    margin-bottom: 40px;
+	}
+	footer {
+	    padding: 60px 0;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	h1, .h1 {
+	    font-size: 54px;
+	    line-height: 64px;
+	}
+	h2, .h2 {
+	    font-size: 34px;
+	    line-height: 42px;
+	}
+	h3, .h3 {
+	    font-size: 25px;
+	    line-height: 30px;
+	}
+	h4, .h4 {
+	    font-size: 20px;
+	    line-height: 30px;
+	}
+	h5 {
+	    font-size: 18px;
+	    line-height: 24px;
+	}
+	.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	    margin-bottom: 20px;
+	}
+	.page-title-height {
+	    height: 265px;
+	}
+	.page-title {
+	    font-size: 46px;
+	    line-height: 56px;
+	}
+	section {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+	input, select, textarea, .form-control, .form-select {
+		font-size: 18px;
+		padding: 15px 15px 15px 50px;
+	}
+	header .container-fluid {
+	    padding-left: 15px;
+	    padding-right: 15px;
+	}
+	header .header-button .btn {
+	    font-size: 12px;
+	    padding: 14px 20px;
+	}
+	.navbar-brand .logo {
+	    width: 200px;
+	}
+	.menu-order {
+	    margin-left: 15px !important;
+	}
+	.hero-banner {
+	    height: 550px;
+	}
+	.form-group .form-icon {
+		left: 15px;
+	}
+	.form-textarea.form-group .form-icon {
+	    top: 16px;
+	}
+	.btn.btn-large {
+	    font-size: 18px;
+	    padding: 18px 30px 20px 30px;
+	}
+	.hero-banner .title {
+	    margin-bottom: 30px;
+	}
+	.about-company .content {
+	    padding-top: 50px;
+	    margin-bottom: 40px;
+	}
+	.about-company .contact-form .form-wrapper {
+		padding: 40px 30px;
+	}
+	.about-company .contact-form .form-title {
+	    margin-bottom: 30px;
+	}
+	.about-company .contact-form .form-title img {
+	    margin-right: 15px;
+	    width: 27px;
+	}
+	.our-sevices .title-row {
+	    margin-bottom: 40px;
+	}
+	.our-sevices .service-box .services-inner {
+	    padding-right: 50px;
+	    padding-left: 50px !important;
+	}
+	.our-work .work-item:nth-child(n+3) {
+	    margin-top: 40px;
+	}
+	.client-logo .financial-success-box {
+	    margin-bottom: 50px;
+	}
+	.client-logo .financial-success-box {
+	    font-size: 16px;
+	    line-height: 22px;
+		padding: 15px 30px;
+		margin-top: -48px;
+	}
+	.legal-assistance .cover-bg {
+	    padding-top: 50px;
+	    padding-bottom: 50px;
+	}
+	.legal-assistance .legal-content h2 {
+		font-size: 30px;
+    	line-height: 42px;
+	    width: 100%;
+	}
+	.legal-assistance .list {
+	    font-size: 17px;
+	}
+	.legal-assistance .image-wrapper {
+	    margin-bottom: 40px;
+	}
+	.list li .icon {
+	    height: 34px;
+	    width: 34px;
+	    margin-right: 15px;
+	}
+	.service-image-section figure > img {
+		width: 100%;
+	}
+	.vision-image-wrapper .right-img {
+		top: 70px;
+	}
+	.committed-business h2 {
+	    font-size: 44px;
+	    line-height: 54px;
+	}
+	.solutions-services .title-row {
+	    margin-bottom: 20px;
+	}
+	.icon-with-text:nth-child(n+2) {
+	    margin-top: 30px;
+	}
+	.solutions-services .bottom-row {
+	    margin-top: 40px;
+	}
+	.solutions-services .bottom-row h5 {
+		display: block;
+	}
+	.solutions-services .bottom-row .label {
+		margin-right: 0;
+		margin-bottom: 10px;
+	}
+	.separator, .service-content-image-row {
+	    margin-bottom: 50px;
+	}
+	.our-corporate-service h2 {
+	    font-size: 32px;
+	    line-height: 42px;
+	}
+	.counter-box .label {
+	    font-size: 16px;
+	    line-height: 26px;
+	}
+	.fancy-heading h3 {
+	    font-size: 28px;
+	    line-height: 36px;
+	}
+	.fancy-heading .service-number {
+	    font-size: 70px;
+	    line-height: 70px;
+	}
+	.social-icon {
+		justify-content: center;
+	}
+	.get-in-touch .bottom-row {
+	    margin-top: 40px;
+	}
+	.map {
+		height: 400px;
+	}
+	.get-in-touch h2 {
+	    font-size: 32px;
+	    line-height: 42px;
+	}
+	footer .main-title {
+	    font-size: 38px;
+	    line-height: 48px;
+	    width: 80%;
+	    display: inline-block;
+	    margin-bottom: 40px;
+	}
+	footer .newsletter-form {
+	    max-width: 70%;
+	    margin: 0 auto;
+	}
+	footer {
+	    padding: 50px 0 20px 0;
+	}
+	footer .newsletter-title {
+		margin-bottom: 10px;
+	}
+	footer .footer-newsletter {
+	    margin-bottom: 30px;
+	}
+	footer .menu-column {
+		margin-bottom: 30px;
+	}
+	footer .menu-column:last-child {
+		margin-bottom: 0;
+	}
+	footer .copyright {
+		padding-top: 20px;
+	}
+}
+
+@media only screen and (max-width: 575px) {
+	.page-title {
+	    font-size: 36px;
+	    line-height: 46px;
+	    margin: 0;
+	}
+	.page-title-height {
+	    height: 215px;
+	}
+	.about-company .contact-form .form-bg-img {
+	    left: auto;
+	    top: -130px;
+	    right: 0;
+	    width: 130px;
+	}
+	.our-sevices .service-box .services-inner {
+		border: 0;
+		padding: 0 15px !important;
+	}
+	.our-sevices .service-box {
+	    margin-top: 0 !important;
+	    margin-bottom: 40px;
+	}
+	.our-sevices .service-box:last-child {
+		margin-bottom: 0;
+	}
+	.our-sevices .service-box .service-title {
+	    margin-bottom: 20px;
+	}
+	.our-work .work-item .step-separator {
+		display: none;
+	}
+	.our-work .work-item {
+		margin-bottom: 30px;
+	}
+	.our-work .work-item:last-child {
+		margin-bottom: 0;
+	}
+	.our-work .work-item:nth-child(n+3) {
+	    margin-top: 0px;
+	}
+	.legal-assistance .image-wrapper {
+	    padding-left: 0;
+	    margin-bottom: 30px;
+	}
+	.legal-assistance .cover-bg:after {
+		display: none;
+	}
+	.legal-assistance .cover-bg {
+	 	padding-left: 15px;
+	 	padding-right: 15px;
+	 	border-radius: 0;
+	}
+	.legal-assistance .legal-content {
+		padding-left: 15px;
+	}
+	.legal-assistance .image-wrapper > div {
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	.legal-assistance .image-wrapper > div:last-child {
+		margin-bottom: 0;
+	}
+	.client-logo .financial-success-box .images img.first-img {
+	    display: none;
+	}
+	.our-vision .vision-image-wrapper {
+	    margin-bottom: 34%;
+	}
+	.committed-business .committed-business-content {
+	    padding: 40px 15px;
+	}
+	.committed-business h2 {
+	    font-size: 38px;
+	    line-height: 48px;
+	}
+	.accordion-bottom-row {
+	    margin-top: 30px;
+	}
+	.counter-box:nth-child(n+2) {
+	    margin-top: 40px;
+	}
+	.list.style-02 li .icon {
+	    height: 38px;
+	    width: 38px;
+	}
+	.list.style-02 li .icon img {
+		width: 20px;
+	}
+}
+@media only screen and (max-width: 479px) {
+	.client-logo .financial-success-box {
+		margin-top: -58px;
+	}
+	footer .newsletter-form {
+		max-width: 100%;
+	}
+	footer .main-title {
+	    font-size: 32px;
+	    line-height: 44px;
+	    width: 100%;
+	}
+}
