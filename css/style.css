@@ -179,10 +179,8 @@ input, select, textarea, .form-control, .form-select {
 }
 .form-group .form-icon {
 	position: absolute;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
-  left: 25px;
+	top: 21px;
+	left: 25px;
 }
 .form-textarea.form-group .form-icon {
 	  top: 23px;
@@ -201,6 +199,14 @@ input, select, textarea, .form-control, .form-select {
 }
 .terms-condition-box input[type=checkbox].is-invalid+.box:before {
     border-color: #dc3545;
+}
+.error-note {
+	font-size: 14px;
+	color: red;
+	display: none;
+}
+.form-control.is-invalid + .error-note {
+	display: block;
 }
 .marquee-slide {
   -webkit-transition-timing-function: linear !important;
@@ -1140,6 +1146,7 @@ header .header-button .btn img {
 .contact-form-wrapper .form-group .form-icon {
 	left: auto;
 	right: 5px;
+	top: 4px;
 	margin-top: -6px;
 }
 .contact-form-wrapper .form-textarea.form-group .form-icon {
@@ -1244,6 +1251,8 @@ footer .newsletter-form .form-icon {
 	position: absolute;
 	left: 0;
 	margin-top: -2px;
+	top: 50%;
+    transform: translateY(-50%);
 }
 footer .newsletter-form {
 	max-width: 330px;
